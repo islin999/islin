@@ -26,12 +26,6 @@
 - 📦 开箱即用，只需要配置项目的基本信息即可。
 - 🛡 支持自托管 Islin。
 
-## 快速开始
-
-The quickest way to get started with express is to utilize the executable [`express(1)`](https://github.com/expressjs/generator) to generate an application as shown below:
-
-Install the executable. The executable's major version will match Express's:
-
 ## 📦 babel-plugin-istanbul安装
 
 
