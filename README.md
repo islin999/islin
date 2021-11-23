@@ -1,4 +1,4 @@
-[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
+[comment]: <> ([![Express Logo]&#40;https://i.cloudup.com/zfY6lL7eFa-3000x3000.png&#41;]&#40;http://expressjs.com/&#41;)
 
 一个支持多端、多版本数据统计的JavaScript代码覆盖率工具
 
