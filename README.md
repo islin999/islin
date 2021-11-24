@@ -71,7 +71,7 @@ Islin.reportCoverage({
 })
 ```
 
-亦手工测试(提供 [islin-crx](https://github.com/islin999/islin-crx) ，无需安装islin)
+亦可手工测试(提供 [islin-crx](https://github.com/islin999/islin-crx) ，无需安装islin)
 
 ## 自托管
 
