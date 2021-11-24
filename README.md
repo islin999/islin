@@ -1,4 +1,4 @@
-[![Express Logo](./logo.png)](https://www.npmjs.com/package/islin)
+[![Islin Logo](./logo.png)](https://www.npmjs.com/package/islin)
 
 一个支持多端、多版本数据统计的JavaScript代码覆盖率工具
 
@@ -71,7 +71,7 @@ Islin.reportCoverage({
 })
 ```
 
-亦手工测试(提供 [islin-crx](https://www.npmjs.com/package/islin) ，无需安装islin)
+亦手工测试(提供 [islin-crx](https://github.com/islin999/islin-crx) ，无需安装islin)
 
 ## License
 
