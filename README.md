@@ -1,6 +1,6 @@
 [![Islin Logo](./logo.png)](https://www.npmjs.com/package/islin)
 
-一个支持多端、多版本数据统计的JavaScript代码覆盖率工具
+一个多端、多版本、实时的前端代码覆盖率收集平台
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -72,6 +72,10 @@ Islin.reportCoverage({
 ```
 
 亦手工测试(提供 [islin-crx](https://github.com/islin999/islin-crx) ，无需安装islin)
+
+## 自托管
+
+提供基于docker的islin自托管方案
 
 ## License
 
