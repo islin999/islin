@@ -12,8 +12,7 @@ Islin.reportCoverage({
         projectName: 'projectName',
         commitSha: 'commitSha',
         projectId: 999,
-        coverage: window.__coverage__,
-        reporter: 'reporter'
+        coverage: window.__coverage__
     },
     reporter:'reporter'
 })
