@@ -5,14 +5,16 @@ interface ProjectConfig {
 }
 interface ReportCoverageParams {
   dsn: string
+  reporter: string
   projectConfig:ProjectConfig
 }
 function reportCoverage(params:ReportCoverageParams) {
-  const {dsn,projectConfig} = params
+  const {dsn,projectConfig,reporter} = params
   fetch(dsn,{
     method:'POST',
     headers:{
-      'content-type': 'application/json'
+      'content-type': 'application/json',
+      'token': reporter
     },
     body:JSON.stringify({
       "projectId": projectConfig.projectId,

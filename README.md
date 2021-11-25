@@ -13,7 +13,9 @@ Islin.reportCoverage({
         commitSha: 'commitSha',
         projectId: 999,
         coverage: window.__coverage__,
-    }
+        reporter: 'reporter'
+    },
+    reporter:'reporter'
 })
 ```
 
@@ -67,7 +69,8 @@ Islin.reportCoverage({
         commitSha: 'commitSha',
         projectId: 999,
         coverage: window.__coverage__,
-    }
+    },
+    reporter:'reporter',
 })
 ```
 
