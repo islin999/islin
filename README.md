@@ -73,7 +73,7 @@ Islin.reportCoverage({
 })
 ```
 
-亦可手工测试(提供 [islin-crx](https://github.com/islin999/islin-crx) ，无需安装islin)
+亦可手工测试(提供 [islin-crx](https://chrome.google.com/webstore/detail/islin-crx/omnpafdjidgpdmlimbangcjjaaodbeof?hl=zh-CN&authuser=0) ，无需安装islin)
 
 ## 自托管
 
