@@ -24,7 +24,8 @@ Islin.reportCoverage({
 - ⚙️ 支持多版本覆盖率收集。
 - ⏰ 实时生成代码覆盖率报告。
 - 📦 开箱即用，只需要配置项目的基本信息即可。
-- ⛵️ 支持自托管 Islin。
+
+[comment]: <> (- ⛵️ 支持自托管 Islin。)
 
 ## 📦 快速开始
 
@@ -73,11 +74,11 @@ Islin.reportCoverage({
 })
 ```
 
-亦可手工测试(提供 [islin-crx](https://chrome.google.com/webstore/detail/islin-crx/omnpafdjidgpdmlimbangcjjaaodbeof?hl=zh-CN&authuser=0) ，无需安装islin)
+亦可手工测试(提供 [islin-crx](https://chrome.google.com/webstore/detail/islin-crx/omnpafdjidgpdmlimbangcjjaaodbeof?hl=zh-CN&authuser=0) Chrome扩展)
 
-## 自托管
+[comment]: <> (## 自托管)
 
-提供基于docker的islin自托管方案
+[comment]: <> (提供基于docker的islin自托管方案)
 
 ## License
 
